@@ -7,13 +7,8 @@
 
 ---
 
-## ⚡ About Me
-I’m passionate about applying **ML/AI to healthcare challenges** — from clinical decision support to biomedical sequence modeling. Before moving into research, I worked as a software engineer specializing in **backend systems**.
-
----
-
 ## 📊 GitHub Stats
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=shashankcuber&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=shashankcuber&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankcuber&layout=compact&theme=radical)
 
