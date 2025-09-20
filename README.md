@@ -17,14 +17,9 @@ I’m passionate about applying **ML/AI to healthcare challenges** — from clin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shashankcuber&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashankcuber&theme=radical)
-
 ---
 
 ⭐️ Total Stars: ![Stars](https://img.shields.io/github/stars/shashankcuber?affiliations=OWNER%2CCOLLABORATOR&style=flat-square)  
-🔄 Total Commits (2025): ![Commits](https://badges.pufler.dev/commits/monthly/shashankcuber)  
-📦 Public Repos: ![Repos](https://badges.pufler.dev/repos/shashankcuber)
-
 ---
 
 <!---
